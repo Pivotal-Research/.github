@@ -20,12 +20,6 @@ All secured by Bitcoin, powered by AI, and owned by you.
 
 ## 🧩 **Our Ecosystem**
 
-
-**🔴 EarnTV**
-- Watch Bloomberg. Earn Bitcoin.
-- Transforming passive viewing into active earning through our partnership with Bloomberg.
-- www.earn.tv
-
 **🔵 ChatAndBuild**
 - Build Anything. Own Everything.
 - AI-powered web development platform turning ideas into applications without code.
@@ -35,6 +29,11 @@ All secured by Bitcoin, powered by AI, and owned by you.
 - Make Bitcoin Productive.
 - Bitcoin staking infrastructure turning static BTC into yield-generating plusBTC.
 - www.pivotalchain.io
+
+**🔴 EarnTV**
+- Watch Bloomberg. Earn Bitcoin.
+- Transforming passive viewing into active earning through our partnership with Bloomberg.
+- www.earn.tv
 
 ## 💻  **GitHub Resources**
 
