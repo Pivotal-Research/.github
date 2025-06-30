@@ -2,19 +2,18 @@
 
 <div align="center">
 
-**Build Anything. Own Everything. We're building the infrastructure for the Intention Economy**
+**Build Anything. Own Everything. AI Augmentation for Everyone, Everywhere**
 
 </div>
 
 ## 🌐 **Our Vision**
 
-> The attention economy monetises your focus. The Intention Economy empowers your goals.
+> AI Augmentation for Everyone, Everywhere
 
-We're building a new economic paradigm where:
-- Your watching becomes earning (not just viewing)
-- Your ideas become applications (not just concepts)
-- Your assets become productive (not just stored)
-- Your creativity becomes autonomous (not just manual)
+When intelligence becomes ownable, everyone becomes an entrepreneur:
+- Universal Access: Anyone can use AI without English or coding skills
+- True Ownership: People should own their AI not rent it
+- Human Augmentation: AI amplifies human potential, not replace it
 
 All secured by Bitcoin, powered by AI, and owned by you.
 
@@ -25,15 +24,15 @@ All secured by Bitcoin, powered by AI, and owned by you.
 - AI-powered web development platform turning ideas into applications without code.
 - www.chatandbuild.com
 
+**🟠 Non-Fungible Agents**
+- AI Agents as Assets - a new Token Standard
+- BEP-007 issued on Binance Chain
+- www.nfa.xyz
+
 **🟡 PivotalChain**
 - Make Bitcoin Productive.
 - Bitcoin staking infrastructure turning static BTC into yield-generating plusBTC.
 - www.pivotalchain.io
-
-**🔴 EarnTV**
-- Watch Bloomberg. Earn Bitcoin.
-- Transforming passive viewing into active earning through our partnership with Bloomberg.
-- www.earn.tv
 
 ## 💻  **GitHub Resources**
 
